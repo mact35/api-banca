@@ -1,0 +1,25 @@
+{
+  "name": "api-banca",
+  "version": "1.0.0",
+  "description": "Aplicacion de apis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mact35/api-banca.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "banca",
+    "bank"
+  ],
+  "author": "Marco Castilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mact35/api-banca/issues"
+  },
+  "homepage": "https://github.com/mact35/api-banca#readme"
+}
