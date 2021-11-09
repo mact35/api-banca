@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/mact35/api-banca/issues"
   },
-  "homepage": "https://github.com/mact35/api-banca#readme"
+  "homepage": "https://github.com/mact35/api-banca#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
